@@ -36,6 +36,4 @@ Desempeño general de la categoría, desempeño por plaza / marca / segmento / s
 
 `Power BI Desktop` · `Power Query (unpivot)` · `DAX` · `Modelado dimensional` · `Category Management`
 
-## Capturas
 
-*Pendiente de incorporar.* Ver la guía "Cómo agregar capturas de pantalla" en el [README principal del portfolio](../README.md).
