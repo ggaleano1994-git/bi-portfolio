@@ -27,14 +27,3 @@ Ambos proyectos surgieron de pruebas técnicas para procesos de selección labor
 ## Stack técnico general
 
 `Power BI Desktop` · `Power BI Service` · `DAX` · `Power Query` · `Modelado dimensional (esquema estrella)` · `Excel`
-
-## Cómo agregar capturas de pantalla a un proyecto
-
-1. Abrí el reporte en Power BI Desktop.
-2. En cada página, usá **Archivo → Exportar → Exportar en PDF** (genera todas las páginas en un solo PDF), o simplemente sacá una captura de pantalla de cada página (Win + Shift + S en Windows).
-3. Guardá las imágenes como `.png` dentro de la carpeta del proyecto correspondiente, en una subcarpeta `capturas/` (ej: `proyecto-modelo-comercial-datos-sucios/capturas/pagina1-rentabilidad.png`).
-4. En el `README.md` del proyecto, agregá una línea por imagen con esta sintaxis:
-   ```markdown
-   ![Página de Rentabilidad](./capturas/pagina1-rentabilidad.png)
-   ```
-5. Subí los archivos a GitHub de la misma forma que el resto (ver guía paso a paso).
