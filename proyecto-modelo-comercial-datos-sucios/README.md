@@ -46,4 +46,8 @@ Librería de medidas para rentabilidad, ticket promedio, evolución temporal y s
 
 `Power BI Desktop` · `Power Query` · `DAX` · `Modelado dimensional (esquema estrella)`
 
+## Capturas
+
+![Vista ejecutiva](./capturas/Vista ejecutiva.png)
+![Vista operativa](./capturas/Vista operativa.png)
 
