@@ -36,4 +36,11 @@ Desempeño general de la categoría, desempeño por plaza / marca / segmento / s
 
 `Power BI Desktop` · `Power Query (unpivot)` · `DAX` · `Modelado dimensional` · `Category Management`
 
+  ## Capturas
+
+![Scorecard](./Capturas-Catman/Scorecard.png)
+![Competencia](./Capturas-Catman/Competencia.png)
+![Plaza-y-Segmento](./Capturas-Catman/Plaza-y-Segmento.png)
+![Portafolio](./Capturas-Catman/Portafolio.png)
+
 
