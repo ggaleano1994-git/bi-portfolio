@@ -27,3 +27,8 @@ Ambos proyectos surgieron de pruebas técnicas para procesos de selección labor
 ## Stack técnico general
 
 `Power BI Desktop` · `Power BI Service` · `DAX` · `Power Query` · `Modelado dimensional (esquema estrella)` · `Excel`
+
+## Capturas
+
+![Vista ejecutiva](./capturas/Vista-ejecutiva.png)
+![Vista operativa](./capturas/Vista-operativa.png)
