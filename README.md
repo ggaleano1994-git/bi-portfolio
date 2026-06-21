@@ -30,5 +30,5 @@ Ambos proyectos surgieron de pruebas técnicas para procesos de selección labor
 
 ## Capturas
 
-![Vista ejecutiva](./Capturas-Modelo-Comercial/Vista-ejecutiva.png)
-![Vista operativa](./Capturas-Modelo-Comercial/Vista-operativa.png)
+![Vista ejecutiva](./proyecto-modelo-comercial-datos-sucios/Capturas-Modelo-Comercial/Vista-ejecutiva.png)
+![Vista operativa](./proyecto-modelo-comercial-datos-sucios/Capturas-Modelo-Comercial/Vista-operativa.png)
