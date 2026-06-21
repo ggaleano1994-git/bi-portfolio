@@ -48,6 +48,6 @@ Librería de medidas para rentabilidad, ticket promedio, evolución temporal y s
 
 ## Capturas
 
-![Vista ejecutiva](./capturas/Vista-ejecutiva.png)
-![Vista operativa](./capturas/Vista-operativa.png)
+![Vista ejecutiva](./proyecto-modelo-comercial-datos-sucios/Capturas-Modelo-Comercial/Vista-ejecutiva.png)
+![Vista operativa](./proyecto-modelo-comercial-datos-sucios/Capturas-Modelo-Comercial/Vista-operativa.png)
 
